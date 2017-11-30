@@ -1,0 +1,2 @@
+Self Dividing Numbers
+https://leetcode.com/problems/self-dividing-numbers/description/
